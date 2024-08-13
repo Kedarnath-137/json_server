@@ -7,7 +7,7 @@
       "brand": "BrandA",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723527201/4_40a66ad7-ccdf-42b5-bde2-8f0b78d6e2b1_900x_coln9c.jpg",
       "price": 19.99,
-      "old price":21.99,
+      "oldPrice":21.99,
       "rating": 4.5,
       "size": ["S", "M", "L", "XL"],
       "offer": "10% off"
@@ -19,7 +19,7 @@
       "brand": "BrandB",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723525956/category-5_tedda2.jpg",
       "price": 59.99,
-      "old price":63.00,
+      "oldPrice":63.00,
       "rating": 4.7,
       "size": ["6", "7", "8", "9", "10"],
       "offer": "20% off"
@@ -31,7 +31,7 @@
       "brand": "BrandC",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723527135/SmartWatchCOLMiC80BlackLeftView_1_rph2t6.jpg",
       "price": 129.99,
-      "old price":135.62,
+      "oldPrice":135.62,
       "rating": 4.8,
       "size": ["One Size"],
       "offer": "15% off"
@@ -43,7 +43,7 @@
       "brand": "BrandD",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723527087/Big-Dixie-Bifold-Leather-Wallet-Holtz-Leather-1-980x980_1200x_fx9pkn.jpg",
       "price": 29.99,
-      "old price":36.25,
+      "oldPrice":36.25,
       "rating": 4.2,
       "size": ["One Size"],
       "offer": "5% off"
@@ -55,7 +55,7 @@
       "brand": "BrandE",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723527026/s-l400_nob0zd.jpg",
       "price": 89.99,
-      "old price":93.52,
+      "oldPrice":93.52,
       "rating": 4.6,
       "size": ["One Size"],
       "offer": "25% off"
@@ -67,7 +67,7 @@
       "brand": "BrandF",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723527359/61-sk9U60pL._AC_UY350__ayqj5o.jpg",
       "price": 39.99,
-      "old price":49.25,
+      "oldPrice":49.25,
       "rating": 4.3,
       "size": ["S", "M", "L", "XL"],
       "offer": "10% off"
@@ -79,7 +79,7 @@
       "brand": "BrandG",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723527403/2024-Bolsos-PARA-Mujeres-Fashion-Bags-Women-Handbags-Ladies-Hand-Bag_rapoys.webp",
       "price": 49.99,
-      "old prie":62.25,
+      "oldPrice":62.25,
       "rating": 4.4,
       "size": ["One Size"],
       "offer": "15% off"
@@ -91,7 +91,7 @@
       "brand": "BrandH",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526933/6426501_sd_tmk67u.jpg",
       "price": 79.99,
-      "old price":85.25,
+      "oldPrice":85.25,
       "rating": 4.7,
       "size": ["One Size"],
       "offer": "30% off"
@@ -103,7 +103,7 @@
       "brand": "BrandI",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526825/full-grain-italian-leather-belt-handpainted-brown-_qhdld2.jpg",
       "price": 24.99,
-      "old price":42.25,
+      "oldPrice":42.25,
       "rating": 4.1,
       "size": ["S", "M", "L", "XL"],
       "offer": "5% off"
@@ -115,7 +115,7 @@
       "brand": "BrandJ",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526779/88f2481c7032be41c9bd479db9b83de1_keznji.jpg",
       "price": 29.99,
-      "old price":36.45,
+      "oldPrice":36.45,
       "rating": 4.5,
       "size": ["One Size"],
       "offer": "20% off"
@@ -127,7 +127,7 @@
       "brand": "BrandK",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526726/71kBeFDgCkL._AC_UF894_1000_QL80__xkyyb2.jpg",
       "price": 999.99,
-      "old price":1250,
+      "oldPrice":1250,
       "rating": 4.8,
       "size": ["15-inch", "17-inch"],
       "offer": "10% off"
@@ -139,7 +139,7 @@
       "brand": "BrandL",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526665/71KNWunXvTS._AC_UY900__dxcxaj.jpg",
       "price": 54.99,
-      "old price":63.25,
+      "oldPrice":63.25,
       "rating": 4.6,
       "size": ["7", "8", "9", "10", "11"],
       "offer": "25% off"
@@ -151,7 +151,7 @@
       "brand": "BrandM",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526578/HSMQHJWE-Chamarra-Para-Mujer-Women-S-Fall-Jacket-Women-S-Slim-Leather-Stand-Up-Collar-Zipper-Stitching-Solid-Color-Jacket-Womens-Sleep-Jackets_9f1d303d-65d3-41fd-a41a-a8fa37a3d21c.c19d1d8f282afa576b3647295c17724a_mmsbye.jpg",
       "price": 79.99,
-      "old price":85.25,
+      "oldPrice":85.25,
       "rating": 4.4,
       "size": ["S", "M", "L"],
       "offer": "20% off"
@@ -163,7 +163,7 @@
       "brand": "BrandN",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526535/61agI90cKJL._AC_UF1000_1000_QL80__vajeqo.jpg",
       "price": 29.99,
-      "old price":43.25,
+      "oldprice":43.25,
       "rating": 4.3,
       "size": ["One Size"],
       "offer": "10% off"
@@ -175,7 +175,7 @@
       "brand": "BrandO",
       "image": "https://res.cloudinary.com/drukgvsi9/image/upload/v1723526480/005013306-front-pdp-ld_ssibjs.jpg",
       "price": 49.99,
-      "old price":55.25,
+      "oldPrice":55.25,
       "rating": 4.5,
       "size": ["30", "32", "34", "36"],
       "offer": "15% off"
